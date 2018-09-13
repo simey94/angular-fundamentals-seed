@@ -1,0 +1,4 @@
+Pipe just a function angular will run for you.
+
+? Is safe navigation operator - for example if interface Passenger has a key children
+but some might not then you can do passenger.children?.length will give length if the Passenger has childeren.
